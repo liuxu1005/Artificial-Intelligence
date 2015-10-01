@@ -1,0 +1,67 @@
+66
+0,Alewife, 1
+1,Davis, 2, 0
+2,Porter Square, 3, 1
+3,Harvard Square, 4, 2
+4,Central, 5, 3
+5,Kendall/MIT, 6, 4
+6,Charles/MGH, 7, 5
+7,Park Street, 22, 8, 41, 6
+8,Downtown Crossing, 23, 9, 42, 7
+9,South Station, 10, 8
+10,Broadway, 65, 9
+11,JFK/Umass, 16, 12, 65
+12,Savin Hill, 13, 11
+13,Fields Corner, 14, 12
+14,Shawmut, 15, 13
+15,Ashmont, 14
+16,North Quincy, 17, 11
+17,Wollaston, 18, 16
+18,Quincy Center, 19, 17
+19,Quincy Adams, 20, 18
+20,Braintree, 19
+21,Bowdoin, 22
+22,Government Center, 21, 40, 23, 7
+23,State, 40, 24, 8, 22
+24,Aquarium, 25, 23
+25,Maverick, 26, 24
+26,Airport, 27, 25
+27,Wood Island, 28, 26
+28,Orient Heights, 29, 27
+29,Suffolk Downs, 30, 28
+30,Beachmont, 31, 29
+31,Revere Beach, 32, 30
+32,Wonderland, 31
+33,Oak Grove, 34
+34,Malden Center, 33, 35
+35,Wellington, 34, 36
+36,Assembly Square, 35, 37
+37,Sullivan Square, 36, 38
+38,Community College, 37, 39
+39,North Station, 60, 38, 40
+40,Haymarket, 39, 23, 22
+42,Chinatown, 43, 8
+43,Tufts Medical Center, 44, 42
+44,Back Bay, 45, 43
+45,Mass. Ave, 46, 44
+46,Ruggles, 47, 45
+47,Roxbury Crossing, 48, 46
+48,Jackson Square, 49, 47
+49,Stony Brook, 50, 48
+50,Green St, 51, 49
+51,Forest Hills, 50
+52,Route 16, 53
+53,College Ave, 52, 54
+54,Ball Square, 53, 55
+55,Lowell St, 54, 56
+56,Gilman Square, 55, 57
+57,Brickbottom, 56, 58
+58,Lechmere, 59, 57, 60
+59,Union Square, 58
+60,Science Park, 58, 39
+41,Boylston, 61, 7
+61,Arlington, 62, 41
+62,Copley, 64, 63, 61
+63,Hynes Convention Center, 62
+64,Prudential, 62
+65,Andrew, 11, 10
