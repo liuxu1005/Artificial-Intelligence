@@ -8,10 +8,10 @@ LDLIBS=
 SRCS= $(wildcard *.cpp)
 OBJS=$(subst .cpp,.o,$(SRCS))
 
-all: search
+all: xwd
 
-search: $(OBJS)
-	$(CXX) $(LDFLAGS) -o search $(OBJS) $(LDLIBS) 
+xwd: $(OBJS)
+	$(CXX) $(LDFLAGS) -o xwd $(OBJS) $(LDLIBS) 
 
 depend: .depend
 

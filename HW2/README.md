@@ -1,35 +1,5 @@
 
-HW2 comp 131 
-Discussion about heuristic search--- A* search.
+HW2
+Constraints Satification Problem
 
-1. 
-a) Expand list from Toolbank to Scary with A*:
-   Tookbank, Tuckborough, Waymeet, Bywater, Hobbiton, Overhill, Frogmorton, Stock, Oatbarton, Whitefurrows, Budgeford, Scary
-
-b) It is optimal path.  
-   Since the heuristic function is consistency. And this is a A* alogrithm for graph version.
-
-c) The maximum should be 16.
-   Since for  the three successor stations:
-        Tookbank: f(n) = 30,  
-        Stock: f(n) = 40
-        Bywater: f(n) =  ? + 13
-   The ? must be less than 17 to be expanded first.
-
-1.1
-   We need the ratio between MD and ED to judge addmisibility based on
-   information from question 1.
-   We know ED is addmissible since it is less than optimal path cost.
-  
-   Frodo's : 1/2 * ED
-   Sam's: 2 * ED 
-   are admissible
-   According to the ED table, ED and 2 * ED are less than or equal to the optimal path cost,
-   They will not mislead us.
-
-
-   We are not sure if 
-   Merry's : 1/3 * MD + 1/3 *ED
-   Pippin's :3*MD + 3/2 *ED
-   are addmissible or not, we need ratio of MD over ED to calculate the heuristic function.
-
+Cross Puzzle
